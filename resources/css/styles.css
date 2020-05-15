@@ -23,7 +23,7 @@ body {
 .header--subheader {
     font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: gray;
+    color: grey;
 }
 
 
@@ -32,4 +32,13 @@ body {
 .link--cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+
+/* FOOTER */
+
+.footer--copyright {
+    color: grey;
+    text-align: right;
+    font-size: 21px;
 }
